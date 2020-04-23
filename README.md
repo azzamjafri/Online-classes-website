@@ -1,2 +1,4 @@
-# TRS-JMI
-TRS JMI website
+# Online-Classes-Website
+
+A new Platform for Online Educational Studies.
+
